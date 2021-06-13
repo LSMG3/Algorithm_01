@@ -2,13 +2,13 @@
 
 ## 1. Model 1
 ### - Accuracy
-![test1_정확도](https://user-images.githubusercontent.com/81462890/121803602-699ff100-cc7d-11eb-924d-d97a31268495.JPG)
+![test1_정확도](https://user-images.githubusercontent.com/81462890/121805360-f6e74380-cc85-11eb-98e1-7e6767295634.JPG)
 
 ### - Success cases
-![test1_성공](https://user-images.githubusercontent.com/81462890/121803631-889e8300-cc7d-11eb-9fa5-f3b3618d6cc0.JPG)
+![test1_성공](https://user-images.githubusercontent.com/81462890/121805362-f9499d80-cc85-11eb-8d61-07a726b2ee60.JPG)
 
 ### - Failure cases
-![test1_실패](https://user-images.githubusercontent.com/81462890/121803634-8a684680-cc7d-11eb-8440-fccf92ce9474.JPG)
+![test1_실패](https://user-images.githubusercontent.com/81462890/121805365-fbabf780-cc85-11eb-987b-8ab245cd2aa1.JPG)
 
 
 ## 2. Model 2
