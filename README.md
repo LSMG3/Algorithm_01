@@ -13,13 +13,13 @@
 
 ## 2. Model 2
 ### - Accuracy
-![test2_정확도](https://user-images.githubusercontent.com/81462890/121803637-8f2cfa80-cc7d-11eb-89eb-041e511f3ea3.JPG)
+![test2_정확도](https://user-images.githubusercontent.com/81462890/121804967-06fe2380-cc84-11eb-98a3-cd18d8a8b034.JPG)
 
 ### - Success cases
-![test2_성공](https://user-images.githubusercontent.com/81462890/121803638-90f6be00-cc7d-11eb-875a-db0916de059f.JPG)
+![test2_성공](https://user-images.githubusercontent.com/81462890/121804978-10878b80-cc84-11eb-8190-8b709bd84ee8.JPG)
 
 ### - Failure cases
-![test2_실패](https://user-images.githubusercontent.com/81462890/121803642-93591800-cc7d-11eb-8a95-67beb4c6a972.JPG)
+![test2_실패](https://user-images.githubusercontent.com/81462890/121804987-14b3a900-cc84-11eb-86bf-537894e2a585.JPG)
 
 
 ## 3. Model 3
