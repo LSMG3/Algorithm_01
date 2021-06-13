@@ -25,5 +25,7 @@
 ![test3_정확도](https://user-images.githubusercontent.com/81462890/121803643-948a4500-cc7d-11eb-9c80-bc3393c51470.JPG)
 
 - Success cases
+![test3_성공](https://user-images.githubusercontent.com/81462890/121803644-96540880-cc7d-11eb-8d22-527e07c19517.JPG)
 
 - Failure cases
+![test3_실패](https://user-images.githubusercontent.com/81462890/121803646-97853580-cc7d-11eb-9d53-5828550c84e9.JPG)
